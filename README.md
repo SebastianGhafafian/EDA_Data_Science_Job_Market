@@ -8,6 +8,7 @@
     <img src="./img/map_interactive.gif" alt="gif" width="500">
   </div>
 </div>
+
 # :memo: Description
 
 Starting out in the field of data science can be intimidating. There are alot of job postings online and the requirements vary drastically as data science is a broad field.
