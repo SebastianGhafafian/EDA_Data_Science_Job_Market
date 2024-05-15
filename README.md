@@ -2,10 +2,10 @@
 
 <div class="row">
   <div class="column">
-    <img src="./img/barplot.png" alt="barplot" width="500"/>
+    <img src="./img/barplot.png" alt="barplot" width="500">
   </div>
   <div class="column">
-    <img src="./img/map_interactive.gif" alt="gif" width="500"/>
+    <img src="./img/map_interactive.gif" alt="gif" width="500">
   </div>
 </div>
 # :memo: Description
