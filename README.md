@@ -16,3 +16,8 @@ In this project, a scraped data set from Glassdoor containing job postings in th
 This project uses a data set that used data science job postings scraped from Glassdoor.com and is currently published on Kaggle.com: 
 
 https://www.kaggle.com/datasets/rashikrahmanpritom/data-science-job-posting-on-glassdoor
+
+# Notebook
+
+The requirements.txt shows the pytho environment used for the project.
+For EDA projects, this is usually of lower importance, yet there were some problems with Wordcloud having some unresolved dependencies.
