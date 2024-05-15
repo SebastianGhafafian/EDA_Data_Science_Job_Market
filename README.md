@@ -1,25 +1,9 @@
 # Exploratory Data Analysis of Data Science Job Market
 
-<div class="row">
-  <div class="column">
-    <img src="./img/barplot.png" alt="barplot" width="300">
-  </div>
-  <div class="column">
-    <img src="./img/map_interactive.gif" alt="gif" width="500">
-  </div>
-</div>
-
-<html>
-  <head>
-    <title>Pretty</title>
-  </head>
-  <body>
-    <div class="container">
-      <div class="image"> <img src="./img/barplot.png" alt="barplot" alt="This is my image." height="300px"/> </div> 
-      <div class="image"> <img src="./img/map_interactive.gif" alt="This is my second image." height="300px"/> </div> 
-    </div>
-  </body>
-</html>
+<p float="left">
+  <img src="./img/barplot.png" width="500" />
+  <img src="./img/map_interactive.gif" width="400" /> 
+</p>
 
 # :memo: Description
 
