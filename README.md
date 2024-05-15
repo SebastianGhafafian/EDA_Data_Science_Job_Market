@@ -1,6 +1,5 @@
 # Exploratory Data Analysis of Data Science Job Market
-![](./img/map_interactive.gif =250x250)
-<img src="./img/map_interactive.gif " alt="gif" width="200"/>
+<img src="./img/map_interactive.gif " alt="gif" width="500"/>
 # :memo: Description
 
 Starting out in the field of data science can be intimidating. There are alot of job postings online and the requirements vary drastically as data science is a broad field.
