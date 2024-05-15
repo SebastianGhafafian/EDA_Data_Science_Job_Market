@@ -15,8 +15,8 @@
   </head>
   <body>
     <div class="container">
-      <div class="image"> <img src="./img/barplot.png" alt="barplot" alt="This is my image." height="850px"/> </div> 
-      <div class="image"> <img src="./img/map_interactive.gif" alt="This is my second image." height="850px"/> </div> 
+      <div class="image"> <img src="./img/barplot.png" alt="barplot" alt="This is my image." height="300px"/> </div> 
+      <div class="image"> <img src="./img/map_interactive.gif" alt="This is my second image." height="300px"/> </div> 
     </div>
   </body>
 </html>
