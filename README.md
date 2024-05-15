@@ -9,6 +9,18 @@
   </div>
 </div>
 
+<html>
+  <head>
+    <title>Pretty</title>
+  </head>
+  <body>
+    <div class="container">
+      <div class="image"> <img src="./img/barplot.png" alt="barplot" alt="This is my image." height="850px"/> </div> 
+      <div class="image"> <img src="./img/map_interactive.gif" alt="This is my second image." height="850px"/> </div> 
+    </div>
+  </body>
+</html>
+
 # :memo: Description
 
 Starting out in the field of data science can be intimidating. There are alot of job postings online and the requirements vary drastically as data science is a broad field.
