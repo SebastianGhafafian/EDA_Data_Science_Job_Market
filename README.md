@@ -9,7 +9,7 @@
 
 Starting out in the field of data science can be intimidating. There are alot of job postings online and the requirements vary drastically as data science is a broad field.
 What better way to do approach the job search utilizing the data science methodology itself to create insights about job market?
-In this project, a scraped data set from Glassdoor containing job postings in the field of data is cleaned and analysed for common trends and potential employers.
+In this project, a scraped data set from Glassdoor containing job postings in the field of data is cleaned and analysed for common trends and potential employers. The full write-up is posted on my [portfolio](https://sebastianghafafian.github.io/Portfolio/EDA.html).
 
 # :open_file_folder: Data Set
 
@@ -17,7 +17,7 @@ This project uses a data set that used data science job postings scraped from Gl
 
 https://www.kaggle.com/datasets/rashikrahmanpritom/data-science-job-posting-on-glassdoor
 
-# Notebook
+# Requirements
 
-The requirements.txt shows the pytho environment used for the project.
+The requirements.txt shows the python environment used for the project.
 For EDA projects, this is usually of lower importance, yet there were some problems with Wordcloud having some unresolved dependencies.
